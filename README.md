@@ -25,5 +25,5 @@ Actualmente me encuentro aprendiendo programación, bases de datos y desarrollo 
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/joaquin-juarez-261922415/
-- GitHub Pages: file:///C:/Users/joaqu/OneDrive/Desktop/Pagina%20Personal/Pagina%20Personal.html
+- GitHub Pages:  https://joaquinmjuarez.github.io/Pagina-Personal/
 - Correo electrónico: joaquinmjuarez26@gmail.com
