@@ -44,7 +44,7 @@ Creé un sistema de base de datos para administrar libros, usuarios y préstamos
 
 - 🌐 Página Personal con GitHub Pages
 
-Diseñé y desarrollé una página web personal utilizando HTML. El sitio fue publicado mediante GitHub Pages y presenta información sobre mi perfil, habilidades, proyectos y tecnologías que estoy aprendiendo, aplicando conceptos de diseño web responsivo y estructura semántica.
+Diseñé y desarrollé una página web personal utilizando HTML y CSS. El sitio fue publicado mediante GitHub Pages y presenta información sobre mi perfil, habilidades, proyectos y tecnologías que estoy aprendiendo, aplicando conceptos de diseño web responsivo y estructura semántica.
 
 ---
 
