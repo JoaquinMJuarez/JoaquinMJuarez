@@ -1,28 +1,54 @@
-# Hola, soy Joaquin Juarez 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:0F4C81&height=220&section=header&text=Joaquin%20Juarez&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎓 Estudiante de Desarrollo Full Stack.
+# 👋 ¡Hola! Soy Joaquín Juárez
 
-## Sobre mí
+🎓 Estudiante de Programación.
 
-Actualmente me encuentro aprendiendo programación, bases de datos y desarrollo web mediante proyectos académicos y personales.
+💻 Apasionado por el desarrollo web y las bases de datos.
 
-## Tecnologías
+📚 Siempre aprendiendo nuevas tecnologías.
 
-- SQL
-- MySQL
-- Git
-- GitHub
-- HTML
-- CSS
+---
 
-## Proyectos
+## 🛠️ Tecnologías y Herramientas
 
-- Base de Datos de Estudiantes
-- Sistema de Biblioteca
-- Página Personal con GitHub Pages
-- Ejercicios de PSeInt
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Contacto
+---
+
+## 📖 Actualmente aprendiendo
+
+- HTML y CSS
+- SQL y MySQL
+- Git y GitHub
+- Desarrollo Web
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🎓 Base de Datos de Estudiantes
+
+Desarrollé una base de datos para la gestión de estudiantes utilizando SQL y MySQL. Diseñé tablas relacionadas mediante claves primarias (PK) y claves foráneas (FK), apliqué la Primera y Segunda Forma Normal (1FN y 2FN), y realicé consultas, vistas y operaciones CRUD para administrar la información académica.
+
+- 📚 Sistema de Biblioteca
+
+Creé un sistema de base de datos para administrar libros, usuarios y préstamos. Implementé relaciones entre tablas, consultas SQL para la búsqueda de información y mecanismos para registrar préstamos y devoluciones, garantizando la integridad de los datos.
+
+- 🌐 Página Personal con GitHub Pages
+
+Diseñé y desarrollé una página web personal utilizando HTML. El sitio fue publicado mediante GitHub Pages y presenta información sobre mi perfil, habilidades, proyectos y tecnologías que estoy aprendiendo, aplicando conceptos de diseño web responsivo y estructura semántica.
+
+---
+
+## 📫 Contacto
 
 - LinkedIn: https://www.linkedin.com/in/joaquin-juarez-261922415/
 - GitHub Pages: https://joaquinmjuarez.github.io/Pagina-Personal/
