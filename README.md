@@ -48,6 +48,16 @@ Diseñé y desarrollé una página web personal utilizando HTML y CSS. El sitio 
 
 ---
 
+## 📊 Mis estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaquinMJuarez&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JoaquinMJuarez&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Contacto
 
 - LinkedIn: https://www.linkedin.com/in/joaquin-juarez-261922415/
