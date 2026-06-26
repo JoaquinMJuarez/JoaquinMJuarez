@@ -53,9 +53,11 @@ Diseñé y desarrollé una página web personal utilizando HTML y CSS. El sitio 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaquinMJuarez&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=JoaquinMJuarez&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaquinMJuarez&theme=tokyo-night)
 
 ---
 
