@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:0F4C81&height=220&section=header&text=Joaquin%20Juarez&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Joaquín Juárez</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FA9F5&center=true&vCenter=true&width=600&lines=Estudiante+de+Programación;Apasionado+por+el+Desarrollo+Web;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
+
+<h1 align="center">👋 ¡Hola! Soy Joaquín Juárez</h1>
 
 <p align="center">
   <b>💻 Estudiante de Programación | 🌐 Desarrollo Web | 🗄️ Bases de Datos</b>
