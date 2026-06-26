@@ -131,5 +131,3 @@ Aplicando relaciones entre tablas y consultas SQL.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=120&section=footer"/>
 </p>
-```
-
