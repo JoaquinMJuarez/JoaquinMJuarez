@@ -5,22 +5,21 @@
 <h1 align="center">👋 ¡Hola! Soy Joaquín Juárez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FA9F5&center=true&vCenter=true&width=600&lines=Estudiante+de+Programación;Apasionado+por+el+Desarrollo+Web;Siempre+aprendiendo+nuevas+tecnologías" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FA9F5&center=true&vCenter=true&width=700&lines=Estudiante+de+Programación;Apasionado+por+el+Desarrollo+Web;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
 
 <p align="center">
-  <b>💻 Estudiante de Programación | 🌐 Desarrollo Web | 🗄️ Bases de Datos</b>
+  <strong>💻 Estudiante de Programación | 🌐 Desarrollo Web | 🗄️ Bases de Datos</strong>
 </p>
 
 <p align="center">
-  Soy estudiante de programación apasionado por el desarrollo web y las bases de datos.
-  Actualmente estoy fortaleciendo mis conocimientos en HTML, CSS, JavaScript, SQL y Git,
-  desarrollando proyectos personales para mejorar mis habilidades y seguir aprendiendo cada día.
+Soy estudiante de programación apasionado por el desarrollo web y las bases de datos. <br>
+Actualmente desarrollo proyectos personales para fortalecer mis conocimientos en <strong>HTML, CSS, JavaScript, SQL y Git</strong>, mientras continúo aprendiendo nuevas tecnologías.
 </p>
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode" />
@@ -28,41 +27,41 @@
 
 ---
 
-# 📖 Actualmente aprendiendo
+## 📖 Actualmente aprendiendo
 
-- 🌐 HTML y CSS
-- ⚡ JavaScript
-- 🗄️ SQL y MySQL
-- 🌱 Git y GitHub
-- 📱 Desarrollo Web Responsive
+- ⚡ JavaScript (DOM y manipulación de eventos)
+- 🎨 CSS avanzado y diseño responsive
+- 🌐 Desarrollo Web
+- 🗄️ SQL y modelado de bases de datos
+- 🌱 Buenas prácticas con Git y GitHub
 
 ---
 
-# 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-## 🌐 Página Personal
+### 🌐 Página Personal
 
-Página desarrollada con **HTML y CSS**, publicada mediante **GitHub Pages**, donde presento mi perfil, habilidades, tecnologías y proyectos.
+Desarrollé una página web utilizando **HTML y CSS**, publicada con **GitHub Pages**, donde presento mi perfil, habilidades, tecnologías y proyectos.
 
-## 🎓 Base de Datos de Estudiantes
+### 🎓 Base de Datos de Estudiantes
 
-Sistema desarrollado con **SQL y MySQL**, aplicando:
+Proyecto desarrollado con **SQL y MySQL**, aplicando:
 
 - Claves Primarias (PK)
 - Claves Foráneas (FK)
 - Primera y Segunda Forma Normal
-- Vistas
 - Consultas SQL
+- Vistas
 - Operaciones CRUD
 
-## 📚 Sistema de Biblioteca
+### 📚 Sistema de Biblioteca
 
-Proyecto de base de datos para administrar:
+Sistema de base de datos para gestionar:
 
-- Libros
-- Usuarios
-- Préstamos
-- Devoluciones
+- 📖 Libros
+- 👤 Usuarios
+- 📅 Préstamos
+- ✅ Devoluciones
 
 Aplicando relaciones entre tablas y consultas SQL.
 
@@ -71,35 +70,37 @@ Aplicando relaciones entre tablas y consultas SQL.
 ## 📌 Repositorios Destacados
 
 <p align="center">
-  <a href="https://github.com/JoaquinMJuarez/Pagina-Personal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Pagina-Personal&theme=tokyonight" />
-  </a>
 
-  <a href="https://github.com/JoaquinMJuarez/Proyecto-de-Juego">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Proyecto-de-Juego&theme=tokyonight" />
-  </a>
+<a href="https://github.com/JoaquinMJuarez/Pagina-Personal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Pagina-Personal&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/JoaquinMJuarez/Proyecto-de-Juego">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Proyecto-de-Juego&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
 
-# 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaquinMJuarez&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaquinMJuarez&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaquinMJuarez&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JoaquinMJuarez&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquinMJuarez&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquinMJuarez&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
 
 <p align="center">
 
@@ -108,7 +109,7 @@ Aplicando relaciones entre tablas y consultas SQL.
 </a>
 
 <a href="https://joaquinmjuarez.github.io/Pagina-Personal/" target="_blank">
-<img src="https://img.shields.io/badge/Mi%20Portfolio-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:joaquinmjuarez26@gmail.com">
@@ -128,5 +129,7 @@ Aplicando relaciones entre tablas y consultas SQL.
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=120&section=footer"/>
 </p>
+```
+
