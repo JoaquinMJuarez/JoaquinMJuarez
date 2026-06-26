@@ -55,7 +55,7 @@ Diseñé y desarrollé una página web personal utilizando HTML y CSS. El sitio 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JoaquinMJuarez&theme=tokyonight)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight)
 
 ---
 
