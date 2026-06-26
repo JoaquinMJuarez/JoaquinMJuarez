@@ -87,14 +87,12 @@ Aplicando relaciones entre tablas y consultas SQL.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaquinMJuarez&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JoaquinMJuarez&theme=tokyonight"/>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMJuarez&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquinMJuarez&theme=tokyo-night"/>
