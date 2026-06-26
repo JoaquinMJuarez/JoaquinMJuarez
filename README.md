@@ -79,6 +79,7 @@ Aplicando relaciones entre tablas y consultas SQL.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Proyecto-de-Juego&theme=tokyonight" />
   </a>
 </p>
+
 ---
 
 # 📊 Estadísticas de GitHub
