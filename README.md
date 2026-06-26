@@ -111,7 +111,9 @@ Aplicando relaciones entre tablas y consultas SQL.
 
 <p align="center">
 ⭐ Gracias por visitar mi perfil.
+</p>
 
+<p align="center">
 🚀 Siempre abierto a aprender nuevas tecnologías y desarrollar proyectos interesantes.
 </p>
 
