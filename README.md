@@ -5,6 +5,10 @@
 <h1 align="center">👋 ¡Hola! Soy Joaquín Juárez</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FA9F5&center=true&vCenter=true&width=600&lines=Estudiante+de+Programación;Apasionado+por+el+Desarrollo+Web;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
+
+<p align="center">
   <b>💻 Estudiante de Programación | 🌐 Desarrollo Web | 🗄️ Bases de Datos</b>
 </p>
 
@@ -66,10 +70,15 @@ Aplicando relaciones entre tablas y consultas SQL.
 
 ## 📌 Repositorios Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Pagina-Personal&theme=tokyonight)](https://github.com/JoaquinMJuarez/Pagina-Personal)
+<p align="center">
+  <a href="https://github.com/JoaquinMJuarez/Pagina-Personal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Pagina-Personal&theme=tokyonight" />
+  </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Proyecto-de-Juego&theme=tokyonight)](https://github.com/JoaquinMJuarez/Proyecto-de-Juego)
-
+  <a href="https://github.com/JoaquinMJuarez/Proyecto-de-Juego">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaquinMJuarez&repo=Proyecto-de-Juego&theme=tokyonight" />
+  </a>
+</p>
 ---
 
 # 📊 Estadísticas de GitHub
